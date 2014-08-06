@@ -1,4 +1,0 @@
-source 'http://rubygems.org'
-
-
-gem 'mathix', path: '/home/nauman/Gems/mathix'
